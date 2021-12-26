@@ -3,3 +3,7 @@
 ## Screenshots
 ![Screenshot](public/img/1.png)
 ![Screenshot](public/img/2.png)
+
+## Setup
+- ```npm install```
+- ```npm start```
